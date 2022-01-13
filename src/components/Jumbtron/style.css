@@ -1,0 +1,21 @@
+.my-jumbtron{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0, 0.8)), url('https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.my-jumbtron h1,h2{
+    color:white;
+}
+.button-input{
+    width: 60%;
+    margin-top: 30px;
+}
